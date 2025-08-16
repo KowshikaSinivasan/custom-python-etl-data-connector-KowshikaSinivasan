@@ -1,0 +1,2 @@
+MONGO_URI=mongodb://localhost:27017
+TALOS_API_KEY=your_real_talos_api_key_here
